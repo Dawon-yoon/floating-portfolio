@@ -1,5 +1,7 @@
 # Floating R3f portfolio
 
+![image](./public//floating-portfolio-image.png)
+
 ### https://dawon-floating-portfolio.netlify.app
 
 - r3f、drei を用いってマックブックのモデルが floating するようなアニメイション
